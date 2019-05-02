@@ -59,11 +59,11 @@ public class AudioListAdapter extends ArrayAdapter<AudioFile> {
         TextView audioHost     = listItemView.findViewById(R.id.audio_host);
         ImageView audioArt     = listItemView.findViewById(R.id.audio_art);
         //Set text for each TextView
+        assert currentAudioFile != null;
         audioProducer.setText(currentAudioFile.getAudioProducer());
         audioTitle.setText(currentAudioFile.getAudioTitle());
         audioHost.setText(currentAudioFile.getAudioHost());
         audioArt.setImageResource(currentAudioFile.getImageResourceId());
-
 
 
         return listItemView;
