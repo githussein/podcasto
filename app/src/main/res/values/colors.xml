@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7D3C98</color>
+    <color name="colorPrimaryDark">#4A235A</color>
+    <color name="colorAccent">#E67E22</color>
+
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+    <!-- Background color for the technology category -->
+    <color name="category_tech">#EC7063</color>
+    <!-- Background color for the family business category -->
+    <color name="category_business">#58D68D</color>
+    <!-- Background color for the health category -->
+    <color name="category_health">#F7DC6F</color>
+    <!-- Background color for the sports category -->
+    <color name="category_sports">#5DADE2</color>
+
+    <color name="audio_producer">#666</color>
+    <color name="audio_title">#000</color>
+    <color name="audio_host">#666</color>
+</resources>

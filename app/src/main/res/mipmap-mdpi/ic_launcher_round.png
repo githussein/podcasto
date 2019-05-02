@@ -1,0 +1,57 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="4" />
+      <entry action="$Redo" count="17" />
+      <entry action="$SelectAll" count="10" />
+      <entry action="$Undo" count="341" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="CleanGradleProject" count="2" />
+      <entry action="CloseProject" count="2" />
+      <entry action="CommentByLineComment" count="41" />
+      <entry action="DialogCancelAction Escape" count="1" />
+      <entry action="DialogOkAction Enter" count="145" />
+      <entry action="EditorBackSpace" count="2729" />
+      <entry action="EditorChooseLookupItem" count="553" />
+      <entry action="EditorCopy" count="71" />
+      <entry action="EditorCut" count="52" />
+      <entry action="EditorDelete" count="788" />
+      <entry action="EditorDown" count="2935" />
+      <entry action="EditorDownWithSelection" count="143" />
+      <entry action="EditorDuplicate" count="113" />
+      <entry action="EditorEnter" count="452" />
+      <entry action="EditorEscape" count="91" />
+      <entry action="EditorIndentSelection" count="9" />
+      <entry action="EditorLeft" count="1752" />
+      <entry action="EditorLeftWithSelection" count="827" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorPaste" count="239" />
+      <entry action="EditorPreviousWord" count="1" />
+      <entry action="EditorRight" count="2259" />
+      <entry action="EditorRightWithSelection" count="1085" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="54" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUnindentSelection" count="8" />
+      <entry action="EditorUp" count="993" />
+      <entry action="EditorUpWithSelection" count="92" />
+      <entry action="ExpandLiveTemplateByTab" count="1" />
+      <entry action="Find" count="6" />
+      <entry action="GotoDeclaration" count="12" />
+      <entry action="InvalidateCaches" count="2" />
+      <entry action="MakeGradleProject" count="6" />
+      <entry action="NewClass" count="1" />
+      <entry action="NextTemplateVariable" count="1" />
+      <entry action="OpenFile" count="1" />
+      <entry action="OpenModuleSettings" count="1" />
+      <entry action="RebuildGradleProject" count="3" />
+      <entry action="RenameElement" count="1" />
+      <entry action="RevealIn" count="1" />
+      <entry action="Run" count="161" />
+      <entry action="SaveAll" count="4" />
+      <entry action="ShowBookmarks" count="1" />
+      <entry action="ShowIntentionActions" count="21" />
+     

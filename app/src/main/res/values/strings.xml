@@ -1,0 +1,19 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Podcasto</string>
+
+    <!-- Category name for technology [CHAR LIMIT=20] -->
+    <string name="category_tech">TECHNOLOGY</string>
+    <!-- Category name for business [CHAR LIMIT=20] -->
+    <string name="category_business">BUSINESS</string>
+    <!-- Category name for health [CHAR LIMIT=20] -->
+    <string name="category_health">HEALTH</string>
+    <!-- Category name for business [CHAR LIMIT=20] -->
+    <string name="category_sports">SPORTS</string>
+
+    <!-- Producers names -->
+    <string name="the_verge">The Verge</string>
+    <string name="ted_talks">TED Talks</string>
+    <string name="rich_dad">Rich Dad Radio Show</string>
+
+</resources>

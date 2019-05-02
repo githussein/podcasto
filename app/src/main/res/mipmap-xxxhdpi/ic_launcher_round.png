@@ -1,0 +1,227 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="4" />
+      <entry action="$Redo" count="17" />
+      <entry action="$SelectAll" count="10" />
+      <entry action="$Undo" count="341" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="CleanGradleProject" count="2" />
+      <entry action="CloseProject" count="2" />
+      <entry action="CommentByLineComment" count="41" />
+      <entry action="DialogCancelAction Escape" count="1" />
+      <entry action="DialogOkAction Enter" count="145" />
+      <entry action="EditorBackSpace" count="2729" />
+      <entry action="EditorChooseLookupItem" count="553" />
+      <entry action="EditorCopy" count="71" />
+      <entry action="EditorCut" count="52" />
+      <entry action="EditorDelete" count="788" />
+      <entry action="EditorDown" count="2935" />
+      <entry action="EditorDownWithSelection" count="143" />
+      <entry action="EditorDuplicate" count="113" />
+      <entry action="EditorEnter" count="452" />
+      <entry action="EditorEscape" count="91" />
+      <entry action="EditorIndentSelection" count="9" />
+      <entry action="EditorLeft" count="1752" />
+      <entry action="EditorLeftWithSelection" count="827" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorPaste" count="239" />
+      <entry action="EditorPreviousWord" count="1" />
+      <entry action="EditorRight" count="2259" />
+      <entry action="EditorRightWithSelection" count="1085" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="54" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUnindentSelection" count="8" />
+      <entry action="EditorUp" count="993" />
+      <entry action="EditorUpWithSelection" count="92" />
+      <entry action="ExpandLiveTemplateByTab" count="1" />
+      <entry action="Find" count="6" />
+      <entry action="GotoDeclaration" count="12" />
+      <entry action="InvalidateCaches" count="2" />
+      <entry action="MakeGradleProject" count="6" />
+      <entry action="NewClass" count="1" />
+      <entry action="NextTemplateVariable" count="1" />
+      <entry action="OpenFile" count="1" />
+      <entry action="OpenModuleSettings" count="1" />
+      <entry action="RebuildGradleProject" count="3" />
+      <entry action="RenameElement" count="1" />
+      <entry action="RevealIn" count="1" />
+      <entry action="Run" count="161" />
+      <entry action="SaveAll" count="4" />
+      <entry action="ShowBookmarks" count="1" />
+      <entry action="ShowIntentionActions" count="21" />
+      <entry action="ShowPopupMenu" count="5" />
+      <entry action="Start.Use.Vcs" count="1" />
+      <entry action="Switcher" count="17" />
+      <entry action="ToggleLineBreakpoint" count="12" />
+      <entry action="template.create.ActivityEmpty Activity" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1476196146668" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="8" last-shown="0" last-used="1486823006166" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="77" last-shown="0" last-used="1536773181622" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="2" last-shown="0" last-used="1487330451354" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="11" last-shown="0" last-used="1536774162427" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1493235615421" last-used="0" shown-count="10" />
+    <feature id="editing.completion.basic" count="3036" last-shown="0" last-used="1556197892439" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="1820" last-shown="0" last-used="1556200024386" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="90" last-shown="0" last-used="1556132625549" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1556150146119" last-used="0" shown-count="2738" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1493235615421" last-used="0" shown-count="10" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="26924" />
+      <option name="invocations" value="2564" />
+      <option name="startDate" value="1478901600000" />
+      <option name="dayCount" value="76" />
+      <option name="lastDate" value="1556143200000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="77" />
+      <option name="startDate" value="1485381600000" />
+      <option name="dayCount" value="25" />
+      <option name="lastDate" value="1536703200000" />
+    </fixesStatsTag>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="2" />
+      <entry path="Build -&gt; Rebuild Project" count="3" />
+      <entry path="File -&gt; Close Project" count="2" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="2" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+Enter" count="21" />
+      <entry shortcut="Backspace" count="2725" />
+      <entry shortcut="Context Menu" count="5" />
+      <entry shortcut="Ctrl+A" count="10" />
+      <entry shortcut="Ctrl+B" count="1" />
+      <entry shortcut="Ctrl+C" count="71" />
+      <entry shortcut="Ctrl+D" count="113" />
+      <entry shortcut="Ctrl+Enter" count="1" />
+      <entry shortcut="Ctrl+F" count="7" />
+      <entry shortcut="Ctrl+K" count="2" />
+      <entry shortcut="Ctrl+Left" count="1" />
+      <entry shortcut="Ctrl+Right" count="1" />
+      <entry shortcut="Ctrl+S" count="4" />
+      <entry shortcut="Ctrl+Shift+Z" count="17" />
+      <entry shortcut="Ctrl+Slash" count="41" />
+      <entry shortcut="Ctrl+Tab" count="17" />
+      <entry shortcut="Ctrl+V" count="239" />
+      <entry shortcut="Ctrl+X" count="52" />
+      <entry shortcut="Ctrl+Z" count="341" />
+      <entry shortcut="Delete" count="788" />
+      <entry shortcut="Down" count="2935" />
+      <entry shortcut="Enter" count="1012" />
+      <entry shortcut="Escape" count="95" />
+      <entry shortcut="Insert" count="2" />
+      <entry shortcut="Left" count="1752" />
+      <entry shortcut="Right" count="2259" />
+      <entry shortcut="Shift+Backspace" count="4" />
+      <entry shortcut="Shift+Down" count="143" />
+      <entry shortcut="Shift+F10" count="11" />
+      <entry shortcut="Shift+F11" count="1" />
+      <entry shortcut="Shift+Left" count="827" />
+      <entry shortcut="Shift+Right" count="1085" />
+      <entry shortcut="Shift+Tab" count="8" />
+      <entry shortcut="Shift+Up" count="92" />
+      <entry shortcut="Tab" count="64" />
+      <entry shortcut="Up" count="993" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="GridLayout" values="AndroidRunConfigurationType" collectionTime="1485464382869" />
+      <project id="Quizz" values="AndroidRunConfigurationType" collectionTime="1555035237127" />
+      <project id="ScoreKeeper" values="AndroidRunConfigurationType" collectionTime="1554822366754" />
+      <project id="ListView2" values="AndroidRunConfigurationType" collectionTime="1485507843559" />
+      <project id="Nobi" values="AndroidRunConfigurationType" collectionTime="1489505416609" />
+      <project id="ListView" values="AndroidRunConfigurationType" collectionTime="1485506880383" />
+      <project id="AppEggTimer" values="AndroidRunConfigurationType" collectionTime="1485862837236" />
+      <project id="Forrera2" values="AndroidRunConfigurationType" collectionTime="1481570676134" />
+      <project id="QuStreamer" values="AndroidRunConfigurationType" collectionTime="1556293141409" />
+      <project id="ListView22" values="AndroidRunConfigurationType" collectionTime="1485549664442" />
+      <project id="CurrenyConverter" values="AndroidRunConfigurationType" collectionTime="1477664752822" />
+      <project id="Timers" values="AndroidRunConfigurationType" collectionTime="1485550994205" />
+      <project id="Nobi - looginGoogle" values="AndroidRunConfigurationType" collectionTime="1486470016178" />
+      <project id="ae001" values="AndroidRunConfigurationType" collectionTime="1478368519804" />
+      <project id="Forrera" values="AndroidRunConfigurationType" collectionTime="1478987803486" />
+      <project id="textField" values="AndroidRunConfigurationType" collectionTime="1485464936057" />
+      <project id="login" values="AndroidRunConfigurationType" collectionTime="1485504655489" />
+      <project id="webview-master" values="AndroidRunConfigurationType" collectionTime="1479167154905" />
+      <project id="ForreraAlpha" values="AndroidRunConfigurationType" collectionTime="1485116883760" />
+    </group>
+    <group name="module type">
+      <project id="GridLayout" values="JAVA_MODULE" collectionTime="1485464382855" />
+      <project id="login" values="JAVA_MODULE" collectionTime="1485504655488" />
+      <project id="Quizz" values="JAVA_MODULE" collectionTime="1555035237125" />
+      <project id="ListView2" values="JAVA_MODULE" collectionTime="1485507843559" />
+      <project id="ListView" values="JAVA_MODULE" collectionTime="1485506880383" />
+      <project id="Nobi" values="JAVA_MODULE" collectionTime="1489505416572" />
+      <project id="Forrera2" values="JAVA_MODULE" collectionTime="1481570676133" />
+      <project id="ForreraAlpha" values="JAVA_MODULE" collectionTime="1485116883760" />
+      <project id="QuStreamer" values="JAVA_MODULE" collectionTime="1556293141408" />
+      <project id="ListView22" values="JAVA_MODULE" collectionTime="1485549664400" />
+      <project id="CurrenyConverter" values="JAVA_MODULE" collectionTime="1477664752820" />
+      <project id="Nobi - looginGoogle" values="JAVA_MODULE" collectionTime="1486470016173" />
+      <project id="signin" values="JAVA_MODULE" collectionTime="1486369186143" />
+      <project id="Forrera" values="JAVA_MODULE" collectionTime="1478987803486" />
+      <project id="Timers" values="JAVA_MODULE" collectionTime="1485550994205" />
+      <project id="textField" values="JAVA_MODULE" collectionTime="1485464936055" />
+      <project id="webview-master" values="JAVA_MODULE" collectionTime="1479167154860" />
+      <project id="AppEggTimer" values="JAVA_MODULE" collectionTime="1485862837231" />
+      <project id="ScoreKeeper" values="JAVA_MODULE" collectionTime="1554822366753" />
+    </group>
+    <group name="vcs">
+      <project id="QuStreamer" values="Git" collectionTime="1556293140168" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="QuStreamer" values="data.users.count.1+,data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1556293152693" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Nobi" values="GradleRunConfiguration" collectionTime="1489505416609" />
+    </group>
+    <group name="file-type">
+      <project id="GridLayout" values="JAVA,AIDL,Images,ARCHIVE,IDEA_MODULE,XML,ProGuard File,Groovy,PLAIN_TEXT,Properties,UNKNOWN" collectionTime="1485464383242" />
+      <project id="login" values="IDEA_MODULE,ProGuard File,UNKNOWN,AIDL,Images,Groovy,ARCHIVE,JAVA,PLAIN_TEXT,Properties,XML" collectionTime="1485504655654" />
+      <project id="Quizz" values="XML,JAVA,Properties,ARCHIVE,Image,PLAIN_TEXT,Groovy,IDEA_MODULE,ProGuard File" collectionTime="1555035237123" />
+ 
