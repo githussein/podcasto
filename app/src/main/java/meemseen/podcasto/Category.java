@@ -22,6 +22,9 @@ public class Category extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_category);
+        // Add back button to the Action Bar
+//        Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
+
 
         SharedPreferences sharedPreferences = getSharedPreferences("pref", MODE_PRIVATE);
         String str = sharedPreferences.getString("category", "");

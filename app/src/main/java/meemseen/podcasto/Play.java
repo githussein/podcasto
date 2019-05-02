@@ -6,16 +6,13 @@ import android.media.MediaPlayer;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.util.Objects;
-
 public class Play extends AppCompatActivity {
-    // Get references for the views
+
     ImageView homeIcon;
     ImageView playIcon;
     ImageView pauseIcon;
@@ -30,7 +27,7 @@ public class Play extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_play);
 
-
+        // Get references for the views
         homeIcon     = findViewById(R.id.home_icon);
         playIcon     = findViewById(R.id.play_icon);
         pauseIcon    = findViewById(R.id.pause_icon);
@@ -38,13 +35,14 @@ public class Play extends AppCompatActivity {
         playTitle    = findViewById(R.id.play_title);
         playSubtitle = findViewById(R.id.play_subtitle);
 
-        //Find the url passed from the Category Activity
+        //Get the data passed from the Category Activity
         SharedPreferences sharedPreferences = getSharedPreferences("pref", MODE_PRIVATE);
         final String sharedStreamingUrl = sharedPreferences.getString("url", "");
         final String sharedPlayTitle = sharedPreferences.getString("title", "");
         final String sharedPlaySubitle = sharedPreferences.getString("subtitle", "");
         final int sharedAudiArtId = sharedPreferences.getInt("image_id", -1);
 
+        // Display the involved images and texts
         playAudioArt.setImageResource(sharedAudiArtId);
         playTitle.setText(sharedPlayTitle);
         playSubtitle.setText(sharedPlaySubitle);

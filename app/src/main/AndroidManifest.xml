@@ -20,14 +20,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Category">
+        <activity android:name=".Category" android:parentActivityName=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Play">
+        <activity android:name=".Play" android:parentActivityName=".Category">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
