@@ -19,6 +19,21 @@
         <item name="android:textAppearance">?android:textAppearanceLarge</item>
     </style>
 
+    <!-- Style for list texts -->
+    <style name="list_title_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textSize">@dimen/title_size</item>
+        <item name="android:textColor">@color/audio_title</item>
+    </style>
+    <style name="list_host_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/host_size</item>
+        <item name="android:textColor">@color/audio_producer</item>
+    </style>
+
     <!-- Title Style -->
     <style name="title_style">
         style name="CategoryStyle">
@@ -39,5 +54,37 @@
         <item name="android:gravity">center</item>
         <item name="android:textColor">@color/audio_host</item>
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
+    </style>
+
+    <!-- Styles for Images -->
+    <style name="play_image_style">
+        style name="CategoryStyle">
+        <item name="android:layout_width">@dimen/play_image_width</item>
+        <item name="android:layout_height">@dimen/play_image_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="list_image_style">
+        style name="CategoryStyle">
+        <item name="android:layout_width">@dimen/list_image_width</item>
+        <item name="android:layout_height">@dimen/list_image_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+
+    <!-- Style foe the separate line in the Play Activity -->
+    <style name="separate_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_margin">@dimen/double_margin</item>
+        <item name="android:color">@color/colorPrimary</item>
+    </style>
+
+    <!-- Style for the play icons -->
+    <style name="play_icons">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/double_margin</item>
+        <item name="android:contentDescription">@string/app_name    </item>
     </style>
 </resources>
