@@ -17,7 +17,7 @@ public class AudioFile {
 
 
     /**
-     * Create a new Word object.
+     * Create a new AudioFile object.
      *
      * @param audioTitle is the title of the audio file
      * @param audioHost is the name of the host person

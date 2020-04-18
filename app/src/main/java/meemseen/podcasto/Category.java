@@ -366,7 +366,7 @@ public class Category extends AppCompatActivity {
                 //The adapters knows how to create list items for each item in the list
                 AudioListAdapter customListAdapter =
                         new AudioListAdapter(this, audiosList);
-
+ 
                 //Link this custom ArrayAdapter to the ListView
                 listView = findViewById(R.id.list_view);
                 listView.setAdapter(customListAdapter);
